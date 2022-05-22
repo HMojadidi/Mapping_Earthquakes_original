@@ -10,6 +10,6 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
     maxZoom: 18,
     accessToken: API_KEY
 });
-// Then we add our 'graymap' tile layer to the map.
+// Then we add our 'graymap' tile layer to the map like this:
 streets.addTo(map);
 
